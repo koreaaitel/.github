@@ -27,12 +27,12 @@ ClawOps는 한국 전화번호 발급부터 음성 통화와 문자, SIP 연동,
 
 | 프로젝트 | 설명 |
 | --- | --- |
-| [Python SDK](https://github.com/clawopshq/sdk-python) | ClawOps Voice API 공식 Python 라이브러리 |
-| [Node.js SDK](https://github.com/clawopshq/sdk-node) | ClawOps Voice API 공식 Node.js·TypeScript 라이브러리 |
-| [CLI](https://github.com/clawopshq/cli) | 터미널에서 ClawOps 계정의 전화와 문자를 다루는 CLI |
-| [개발자 문서](https://github.com/clawopshq/docs) | 가이드와 OpenAPI 기반 API Reference의 공개 소스 |
-| [Mobile Gateway](https://github.com/clawopshq/mobile-gateway) | 휴대폰 셀룰러 회선을 ClawOps SIP로 연결하는 Linux 게이트웨이 |
-| [Design System](https://github.com/clawopshq/design-system) | ClawOps 제품에서 사용하는 React 디자인 시스템 |
+| [Python SDK](https://github.com/koreaaitel/sdk-python) | ClawOps Voice API 공식 Python 라이브러리 |
+| [Node.js SDK](https://github.com/koreaaitel/sdk-node) | ClawOps Voice API 공식 Node.js·TypeScript 라이브러리 |
+| [CLI](https://github.com/koreaaitel/cli) | 터미널에서 ClawOps 계정의 전화와 문자를 다루는 CLI |
+| [개발자 문서](https://github.com/koreaaitel/docs) | 가이드와 OpenAPI 기반 API Reference의 공개 소스 |
+| [Mobile Gateway](https://github.com/koreaaitel/mobile-gateway) | 휴대폰 셀룰러 회선을 ClawOps SIP로 연결하는 Linux 게이트웨이 |
+| [Design System](https://github.com/koreaaitel/design-system) | ClawOps 제품에서 사용하는 React 디자인 시스템 |
 
 ## 빠르게 시작하기
 
@@ -51,7 +51,7 @@ npm install @teamlearners/clawops
 CLI:
 
 ```bash
-brew install clawopshq/tap/clawops
+brew install koreaaitel/tap/clawops
 ```
 
 설치 후에는 [개발자 문서](https://docs.claw-ops.com)에서 전화번호 발급과 첫 통화 연결 방법을 확인할 수 있습니다.
