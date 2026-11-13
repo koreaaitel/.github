@@ -7,7 +7,7 @@
 전화번호, 음성 통화, 문자와 실시간 이벤트를 하나의 API로.<br />
 복잡한 통신 인프라 없이 5분 만에 첫 통화를 시작하세요.
 
-[공식 웹사이트](https://koreaaitel.com) · [개발자 문서](https://docs.claw-ops.com) · [API Reference](https://api.claw-ops.com/docs/) · [콘솔](https://platform.koreaaitel.com) · [서비스 상태](https://status.claw-ops.com)
+[공식 웹사이트](https://koreaaitel.com) · [개발자 문서](https://docs.koreaaitel.com) · [API Reference](https://api.claw-ops.com/docs/) · [콘솔](https://platform.koreaaitel.com) · [서비스 상태](https://status.claw-ops.com)
 
 </div>
 
@@ -54,7 +54,7 @@ CLI:
 brew install koreaaitel/tap/clawops
 ```
 
-설치 후에는 [개발자 문서](https://docs.claw-ops.com)에서 전화번호 발급과 첫 통화 연결 방법을 확인할 수 있습니다.
+설치 후에는 [개발자 문서](https://docs.koreaaitel.com)에서 전화번호 발급과 첫 통화 연결 방법을 확인할 수 있습니다.
 
 ## 문의
 
